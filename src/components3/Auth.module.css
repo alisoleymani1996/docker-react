@@ -1,0 +1,37 @@
+.auth-container {
+    width: 50%;
+    margin: 1rem auto 0;
+    background-color: #65FD5B;
+    border: 1px solid #333;
+    border-radius: 8px;
+    padding: 1.2rem 0.4rem;
+}
+
+.form-control {
+    font-size: 14px;
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    align-content: flex-start;
+    margin: 0 auto 1rem;
+}
+
+.btn-primary {
+    margin-top: 2rem;
+    width: 35%;
+    height: 2.2rem;
+    border-radius: 6px;
+    cursor: pointer;
+    background-color: #199C5A;
+}
+
+.btn-primary:hover {
+    background-color: #22E889;
+}
+.username-control {
+
+}
+
+.password-control {
+
+}

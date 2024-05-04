@@ -1,0 +1,55 @@
+.form-input--container {
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+}
+
+.form-item--container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-bottom: 4rem;
+}
+
+.form-label {
+    font-size: 1.4rem;
+    margin-bottom: 0.4rem;
+}
+
+.form-input {
+    font-size: 1.6rem;
+    width: 80%;
+    border-radius: 6px;
+    height: 4rem;
+    padding-left: 0.6rem;
+}
+
+.form-button--container {
+    display: flex;
+    gap: 2.2rem;
+    justify-content: flex-end;
+}
+
+.form-button {
+    font-size: 1.6rem;
+    font-weight: bold;
+    cursor: pointer;
+    background-color: #BC00FF;
+    color: white;
+    border: none;
+    padding: 2rem;
+    border-radius: 9px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
